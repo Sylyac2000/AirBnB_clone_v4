@@ -40,7 +40,10 @@ button:hover {
     margin-top: 0;
     font-weight: 400;
     font-size: 14px;
+    text-overflow: ellipsis;
+    margin: 7px 0 3px 40px;
 }
+
 .locations {
     height: 100%;
     width: 25%;
